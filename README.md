@@ -1,6 +1,6 @@
 # Library Management API
 
-This project is a simple Library Management API built using PHP and the Slim framework. It provides endpoints for user registration, authentication, and managing authors and books. The API uses JWT (JSON Web Tokens) for authentication and token management.
+Creating a Library Management API involves designing endpoints to manage the operations and resources of a library system. These operations include managing books, members, loans, reservations, and more. Below is an outline for a typical Library Management API
 
 ## Features
 
@@ -437,13 +437,9 @@ function validateToken($token) {
 ```
 ## Author
 
-This project was created and maintained by [ELDRagados](https://github.com/ELDRagados).
-
 If you have any questions, suggestions, or feedback, feel free to reach out:
 
-- GitHub: [ELDRagados](https://github.com/ELDRagados)
-- Email: [Edward Lee Ragados](eragados09122@student.dmmmsu.edu.ph)
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/ELDRagados/Library/issues) if you want to contribute.
+- GitHub: [Jerems18](https://github.com/Jerems18)
+- Email: [Jeremy G. Fangon](jfangon31092@student.dmmmsu.edu.ph)
 
 Thank you for using the Library Management API!
